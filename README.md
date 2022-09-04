@@ -1,6 +1,6 @@
 # A Former Quick Project on Micro Power Manager Platform connecting to blockchain services
 
-# HOW TO RUN
+## HOW TO RUN
 run in a cmd after installing ganache-cli
 ``` 
 ganache-cli
@@ -22,7 +22,7 @@ To run the app
 cd client && npm install && expo start
 ```
 
-# Main API Endpoint
+## Main API Endpoint
 - POST login
 needs email and password
 returns name of user, email of user and id of user or person_id and success status or Failed status
@@ -139,7 +139,7 @@ returns addresses as the lsit of the addresses of the user
     ```
     GET api/tariffs
     ```
-- # Meters
+- ## Meters
   - List [here](http://demo.micropowermanager.com/docs/#list42)
     ```
     GET api/meters
