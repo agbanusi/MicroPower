@@ -1,3 +1,5 @@
+# A Former Quick Project on Micro Power Manager Platform connecting to blockchain services
+
 # HOW TO RUN
 run in a cmd after installing ganache-cli
 ``` 
@@ -97,7 +99,7 @@ returns addresses as the lsit of the addresses of the user
 - On connection to the server, the server emits a 'connected' event with data of socket_id
 - When the app has connected to the database and gotten the list of all meters being used, it should send an event to the server with the name 'accepted'
 - The app should listen for the event with the name 'update' to update the units and daily conumptions so far and history, it will update evry hour
-# Group 5 MPM API usage documentation
+# Micro Power Manager API usage documentation
 
 - ## authentication
   - Login [here](http://demo.micropowermanager.com/docs/#jwt-authentication)
