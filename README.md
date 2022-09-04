@@ -1,4 +1,4 @@
-# A Former Quick Project on Micro Power Manager Platform connecting to blockchain services
+# A Former Quick Project built on Micro Power Manager Platform connecting the API to blockchain payment services as an agent
 
 ## HOW TO RUN
 run in a cmd after installing ganache-cli
